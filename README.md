@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Celine
 
+## 🔭 I’m currently working on the FAIR Phytolith Project
+
+## 🌱 I’m currently learning how to use the open science tools. I am also learning how to make baskets, to create compost and bokashi compost from trash!
+
+## 👯 I’m looking to collaborate on sustainable project
 <!--
 **Cel31/Cel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
