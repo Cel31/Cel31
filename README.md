@@ -2,7 +2,10 @@
 
 ### 🔭 I’m currently working on the FAIR Phytolith Project
 
-### 🌱 I’m currently learning how to use the open science tools. I am also learning how to make baskets, to create compost and bokashi compost from trash!
+### 🌱 I’m currently learning: 
+- how to use the open science tools
+- how to make baskets,
+- how to create compost and bokashi compost from trash!
 
 ### 👯 I’m looking to collaborate on sustainable project
 <!--
