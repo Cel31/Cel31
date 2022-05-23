@@ -3,13 +3,16 @@
 ### 🔭 I’m currently working on the FAIR Phytolith Project
 
 ### 🌱 I’m currently learning: 
-- how to use the open science tools
-- how to make baskets,
+- how to use open science tools
+- how to make baskets from plant-based raw materials and plastics,
 - how to create compost and bokashi compost from trash!
 
 ### 👯 I’m looking for collaboration around sustainability 
 <!--
 **Cel31/Cel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 📫 How to reach me: ckerfant@gmail.com
+- 😄 Pronouns: She/her
 
 Here are some ideas to get you started:
 
