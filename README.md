@@ -8,11 +8,14 @@
 - how to create compost and bokashi compost from trash!
 
 ### 👯 I’m looking for collaboration around sustainability 
+
+
+### 📫 How to reach me: ckerfant@gmail.com
+
+### 😄 Pronouns: She/her
+
 <!--
 **Cel31/Cel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 📫 How to reach me: ckerfant@gmail.com
-- 😄 Pronouns: She/her
 
 Here are some ideas to get you started:
 
