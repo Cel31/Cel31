@@ -7,7 +7,7 @@
 - how to make baskets,
 - how to create compost and bokashi compost from trash!
 
-### 👯 I’m looking to collaborate on sustainable projects
+### 👯 I’m looking for collaboration around sustainability 
 <!--
 **Cel31/Cel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
