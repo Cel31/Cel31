@@ -7,7 +7,7 @@
 - how to make baskets from plant-based raw materials and plastics,
 - how to create compost and bokashi compost from trash!
 
-### 👯 I’m looking for collaboration around sustainability 
+### 👯 I’m looking for collaboration around sustainability and responsible science
 
 
 ### 📫 How to reach me: ckerfant@gmail.com
