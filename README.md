@@ -3,7 +3,7 @@
 ### 🔭 I'm currently working on improving FAIR practices in the phytolith research community with ICOPS.
 - ICOPS is involved in the training and communication of open science tools (GitHub) for phytolith researchers.
 - We are trying to develop ontologies dedicated to the study of phytoliths.
-- 
+  
 ### My personal research focuses on the physical properties of plants and plant-based technologies.
 
 - I am using a participant-observation approach to learn about the raw materials, techniques, technology, and purposes of basket making. 
